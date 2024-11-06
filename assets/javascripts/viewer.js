@@ -4,7 +4,7 @@
   const dataNamePrefix = '/1913JTLGSK_Page_';
   const dataNameNumberCount = 3;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 300;
+  const lastPageNumber = 298;
 
   let imgSources = [];
   const imgSourcesMin = 1;
